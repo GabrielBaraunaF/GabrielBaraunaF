@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/5eKX.gif"  />
-
+<img align="right" height="150" width="200" src="https://i.gifer.com/5eKX.gif" />
 ###
 
 <div align="left">
