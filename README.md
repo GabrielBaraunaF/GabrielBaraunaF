@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GabrielBaraunaF/GabrielBaraunaF/output/snake.svg" alt="Snake animation" />
 
 ###
 A white circle with a dark file icon outlined in the center
